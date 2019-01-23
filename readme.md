@@ -246,7 +246,7 @@
 - [JAMstack](https://github.com/automata/awesome-jamstack#readme) - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt markup.
 
 
-## Back-End Development
+## 后端开发 Back-End Development
 
 - [Flask](https://github.com/humiaozuzu/awesome-flask#readme)
 - [Docker](https://github.com/veggiemonk/awesome-docker#readme)
@@ -273,35 +273,35 @@
 - [Vapor](https://github.com/Cellane/awesome-vapor#readme) - Server-side development in Swift.
 
 
-## Computer Science
+## 计算机科学 Computer Science
 
-- [University Courses](https://github.com/prakhar1989/awesome-courses#readme)
-- [Data Science](https://github.com/bulutyazilim/awesome-datascience#readme)
+- [大学课程 University Courses](https://github.com/prakhar1989/awesome-courses#readme)
+- [数据库学 Data Science](https://github.com/bulutyazilim/awesome-datascience#readme)
 	- [Tutorials](https://github.com/siboehm/awesome-learn-datascience#readme)
-- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme)
+- [机器学习 Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme)
 	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
 	- [ML with Ruby](https://github.com/arbox/machine-learning-with-ruby#readme) - Learning, implementing, and applying Machine Learning using Ruby.
 	- [Core ML Models](https://github.com/likedan/Awesome-CoreML-Models#readme) - Models for Apple's machine learning framework.
 	- [H2O](https://github.com/h2oai/awesome-h2o#readme) - Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.
-- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing#readme)
+- [语言处理 Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing#readme)
 	- [Spanish](https://github.com/dav009/awesome-spanish-nlp#readme)
 	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby#readme)
-- [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics#readme)
-- [Cryptography](https://github.com/sobolevn/awesome-cryptography#readme)
+- [语言学 Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics#readme)
+- [密码学 Cryptography](https://github.com/sobolevn/awesome-cryptography#readme)
 	- [Papers](https://github.com/pFarb/awesome-crypto-papers#readme) - Theory basics for using cryptography by non-cryptographers.
-- [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme)
-- [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) - Neural networks.
+- [计算机视觉 Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme)
+- [深度学习 Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) - Neural networks.
 	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme) - Library for machine intelligence.
 	- [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) - The most cited deep learning papers.
 	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
-- [Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme)
+- [深度视觉 Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme)
 - [Open Source Society University](https://github.com/ossu/computer-science#readme)
-- [Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme)
-- [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis#readme)
-- [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
+- [函数式编程 Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme)
+- [静态分析和代码质量 Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis#readme)
+- [信息检索 Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
 
 
-## Big Data
+## 大数据 Big Data
 
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata#readme)
 - [Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme)
@@ -311,31 +311,31 @@
 - [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) - Unified engine for large-scale data processing.
 
 
-## Theory
+## 理论 Theory
 
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love#readme)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks#readme)
-- [Algorithms](https://github.com/tayllan/awesome-algorithms#readme)
-- [Algorithm Visualizations](https://github.com/enjalot/algovis#readme)
-- [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
-- [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization#readme)
-- [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme)
-- [Math](https://github.com/rossant/awesome-math#readme)
-- [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) - Traversing nested data structures.
+- [算法 Algorithms](https://github.com/tayllan/awesome-algorithms#readme)
+- [算法可视化 Algorithm Visualizations](https://github.com/enjalot/algovis#readme)
+- [人工智能 Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
+- [搜索引擎优化 Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization#readme)
+- [竞争性程序设计 Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme)
+- [数学 Math](https://github.com/rossant/awesome-math#readme)
+- [递归方案 Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) - Traversing nested data structures.
 
 
-## Books
+## 书籍 Books
 
-- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books#readme)
-- [Free Software Testing Books](https://github.com/ligurio/awesome-software-quality#readme)
+- [免费编程书籍 Free Programming Books](https://github.com/EbookFoundation/free-programming-books#readme)
+- [免费软件测试工具数据 Free Software Testing Books](https://github.com/ligurio/awesome-software-quality#readme)
 - [Go Books](https://github.com/dariubs/GoBooks#readme)
 - [R Books](https://github.com/RomanTsegelskyi/rbooks#readme)
-- [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books#readme)
-- [Book Authoring](https://github.com/TalAter/awesome-book-authoring#readme)
-- [Elixir Books](https://github.com/sger/ElixirBooks#readme)
+- [拓展思维的书籍 Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books#readme)
+- [图书创作 Book Authoring](https://github.com/TalAter/awesome-book-authoring#readme)
+- [灵药书 Elixir Books](https://github.com/sger/ElixirBooks#readme)
 
 
-## Editors
+## 编辑器 Editors
 
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks#readme)
 - [Vim](https://github.com/mhinz/vim-galore#readme)
@@ -344,9 +344,9 @@
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - Cross-platform open-source text editor.
 
 
-## Gaming
+## 游戏 Gaming
 
-- [Game Development](https://github.com/ellisonleao/magictools#readme)
+- 游戏开发 [Game Development](https://github.com/ellisonleao/magictools#readme)
 - [Game Talks](https://github.com/hzoo/awesome-gametalks#readme)
 - [Godot](https://github.com/Calinou/awesome-godot#readme) - Game engine.
 - [Open Source Games](https://github.com/leereilly/games#readme)
@@ -359,7 +359,7 @@
 - [Gideros](https://github.com/stetso/awesome-gideros#readme) - Game engine.
 
 
-## Development Environment
+## 开发环境 Development Environment
 
 - [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme) - For macOS.
 - [Dev Env](https://github.com/jondot/awesome-devenv#readme)
@@ -382,16 +382,16 @@
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
 
 
-## Entertainment
+## 娱乐 Entertainment
 
-- [Science Fiction](https://github.com/sindresorhus/awesome-scifi#readme) - Scifi.
-- [Fantasy](https://github.com/RichardLitt/awesome-fantasy#readme)
-- [Podcasts](https://github.com/guipdutra/awesome-geek-podcasts#readme)
-- [Email Newsletters](https://github.com/zudochkin/awesome-newsletters#readme)
-- [IT Quotes](https://github.com/victorlaerte/awesome-it-quotes#readme)
+- [科幻小说 Science Fiction](https://github.com/sindresorhus/awesome-scifi#readme) - Scifi.
+- [幻想作品 Fantasy](https://github.com/RichardLitt/awesome-fantasy#readme)
+- [播客 Podcasts](https://github.com/guipdutra/awesome-geek-podcasts#readme)
+- [电子邮件时事通讯 Email Newsletters](https://github.com/zudochkin/awesome-newsletters#readme)
+- [IT Quotes 引文](https://github.com/victorlaerte/awesome-it-quotes#readme)
 
 
-## Databases
+## 数据库 Databases
 
 - [Database](https://github.com/numetriclabz/awesome-db#readme)
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
@@ -406,12 +406,12 @@
 - [HBase](https://github.com/rayokota/awesome-hbase#readme) - Distributed, scalable, big data store.
 
 
-## Media
+## 媒体 Media
 
-- [Creative Commons Media](https://github.com/shime/creative-commons-media#readme)
-- [Fonts](https://github.com/brabadu/awesome-fonts#readme)
+- [创意共享媒体 Creative Commons Media](https://github.com/shime/creative-commons-media#readme)
+- [字体 Fonts](https://github.com/brabadu/awesome-fonts#readme)
 - [Codeface](https://github.com/chrissimpkins/codeface#readme) - Text editor fonts.
-- [Stock Resources](https://github.com/neutraltone/awesome-stock-resources#readme)
+- [摄影、视频和插画网站 Stock Resources](https://github.com/neutraltone/awesome-stock-resources#readme)
 - [GIF](https://github.com/davisonio/awesome-gif#readme) - Image format known for animated images.
 - [Music](https://github.com/ciconia/awesome-music#readme)
 - [Open Source Documents](https://github.com/hubtee/awesome-opensource-documents#readme)
@@ -421,20 +421,20 @@
 - [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
 
 
-## Learn
+## 学习 Learn
 
-- [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper#readme) - Interactive tutorials.
+- [CLI Workshoppers 交互式教程](https://github.com/therebelrobot/awesome-workshopper#readme) - Interactive tutorials.
 - [Learn to Program](https://github.com/karlhorky/learn-to-program#readme)
-- [Speaking](https://github.com/matteofigus/awesome-speaking#readme)
+- [Speaking 口语](https://github.com/matteofigus/awesome-speaking#readme)
 - [Tech Videos](https://github.com/lucasviola/awesome-tech-videos#readme)
 - [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning#readme)
 - [Computer History](https://github.com/watson/awesome-computer-history#readme)
-- [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids#readme)
-- [Educational Games](https://github.com/yrgo/awesome-eg#readme) - Learn while playing.
+- [Programming for Kids 儿童编程](https://github.com/HollyAdele/awesome-programming-for-kids#readme)
+- [Educational Games 教育游戏](https://github.com/yrgo/awesome-eg#readme) - Learn while playing.
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#readme)
 
 
-## Security
+## 安全 Security
 
 - [Application Security](https://github.com/paragonie/awesome-appsec#readme)
 - [Security](https://github.com/sbilly/awesome-security#readme)
@@ -449,7 +449,7 @@
 - [Lockpicking](https://github.com/meitar/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
 
 
-## Content Management Systems
+## 内容管理系统 Content Management Systems
 
 - [Umbraco](https://github.com/umbraco-community/awesome-umbraco#readme)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms#readme) - Ruby on Rails CMS.
@@ -459,36 +459,36 @@
 - [Craft CMS](https://github.com/craftcms/awesome#readme) - Content-first CMS.
 
 
-## Hardware
+## 硬件 Hardware
 
-- [Robotics](https://github.com/Kiloreux/awesome-robotics#readme)
-- [Internet of Things](https://github.com/HQarroum/awesome-iot#readme)
-- [Electronics](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
-- [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon#readme)
-- [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) - Checklist for building your own electric guitar.
+- [机器人 Robotics](https://github.com/Kiloreux/awesome-robotics#readme)
+- [物联网 Internet of Things](https://github.com/HQarroum/awesome-iot#readme)
+- [电子 Electronics](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
+- [蓝牙信标 Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon#readme)
+- [电吉他 Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) - Checklist for building your own electric guitar.
 
 
-## Business
+## 商业 Business
 
-- [Open Companies](https://github.com/opencompany/awesome-open-company#readme)
+- [开放公司 Open Companies](https://github.com/opencompany/awesome-open-company#readme)
 - [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup#readme)
-- [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) - Goal setting & communication best practices.
-- [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing#readme) - Leading people and being a manager in a technology company/environment.
-- [Indie](https://github.com/mezod/awesome-indie#readme) - Independent developer businesses.
+- [OKR考核 OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) - Goal setting & communication best practices.
+- [领导和管理 Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing#readme) - Leading people and being a manager in a technology company/environment.
+- [独立制片人 Indie](https://github.com/mezod/awesome-indie#readme) - Independent developer businesses.
 
 
-## Work
+## 工作 Work
 
-- [Slack](https://github.com/matiassingers/awesome-slack#readme) - Team collaboration.
+- [团队协作 Slack](https://github.com/matiassingers/awesome-slack#readme) - Team collaboration.
 	- [Communities](https://github.com/filipelinhares/awesome-slack#readme)
-- [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job#readme)
-- [Productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
-- [Niche Job Boards](https://github.com/tramcar/awesome-job-boards#readme)
-- [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions#readme)
-- [Code Review](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
+- [远程作业 Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job#readme)
+- [生产率，生产力 Productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
+- [利基工作板 Niche Job Boards](https://github.com/tramcar/awesome-job-boards#readme)
+- [节目采访 Programming Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions#readme)
+- [代码审查 Code Review](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
 
 
-## Networking
+## 网络 Networking
 
 - [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn#readme)
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme)
